@@ -6,6 +6,7 @@
          <Button id="idbtn1" text="Added button in Devspace 1"/>
          <Button id="idbtn2" text="Added button in Devspace 2"/>
          <Text id="idtxt" text="Text from 1"/>
+          <Text id="idtxt2" text="Text from 2"/>
         </content>
     </Page>
 </mvc:View>
